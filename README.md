@@ -1,2 +1,2 @@
-# Primus-March-Terraform
+# Terraform
 Terraform
